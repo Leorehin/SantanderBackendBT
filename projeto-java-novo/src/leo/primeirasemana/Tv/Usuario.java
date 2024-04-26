@@ -1,4 +1,5 @@
-package leo.primeirasemana;
+package leo.primeirasemana.Tv;
+
 public class Usuario {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package leo.primeirasemana;
+package leo.primeirasemana.Tv;
 
 public class MinhaTv {
     
